@@ -1,8 +1,5 @@
 
 <html> hello world! </html>
 
-- 👋 Hi, I'm Pedro! How are you?
-- 👀 I'm interested in new horizons and possibilities, that's why I started programming, so I can code my own future :)
-- 🌱 Focus on front-end development, as well ass UI/UX designing
-- 💞️ I’m looking to collaborate on any project that add up to my professional self
+- 👋 I’m a Brazilian ☀️🏖 Software Engineer with a strong background in Product Management and UX/UI Designing with over 5 years of tech industry experience. I’ve been collaborating with significant companies to improve their systems and design, as well as their workflow. Also worked on personal projects, from product design and architecture to fullstack development and deployment.
 - 📫 To reach me, simply e-mail me! (joao.abbasi@gmail.com) or contact my linkedin (www.linkedin.com/in/pedro-abbasi)
